@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+#search{
+    display: flex;
+    margin: 1.5rem auto;
+    width: 60%;
+    padding: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
+
+#search:focus{
+    outline: none;
+}
